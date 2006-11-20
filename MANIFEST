@@ -1,8 +1,10 @@
 ABI.pm
+Build.PL
 Changes
-MANIFEST
-Makefile
+LICENSE
 Makefile.PL
-license
-readme
-test.pl
+MANIFEST			This list of files
+README
+t/test.t
+t/TEST_modified.ab1
+META.yml
